@@ -1,47 +1,46 @@
-Oxente
+Côsa Linda
 ======
 
-Tradução do módulo `this` do Python para PT-BR-NE (Português brasileiro nordestino)
+Tradução do módulo `this` do Python para PT-BR-Manezes (Português brasileiro florianopolitano)
 
-**Bote quente, num seja amarrado. Teje livre pra traduzir mais eu!**
+**Dá-lhe querido, não sejas tanso. Tejas livre pra traduzir com nóix!**
 
 ```
-O Cordel do Python, por Tim Peters e bulido por Luan Fonseca
+O Zen do Python, por Tim Peters e xuxcado pelos Manezinhos da Ilha.
 
-Aprumado é melhor do que troncho.
-Nas fuça é melhor que intocado.
-Sem arrudeio é melhor que de rosca.
-De rosca é melhor que um nó cego.
-Linherim é melhor que esbuguelado.
-Espaiado é melhor que chei de guéri-guéri.
-Facim de lê é bão.
-Esses casos cheio de rififi num vale o peido duma gaja mijada.
-Desenrolado é melhor do que donzelo.
-Vacilos tem que ser caguetados.
-Ou pelo menos vacile direito.
-Se tem muita gente e alguém peidou, melhor cheirar calado do que acusar em vão.
-Deve ter um jeito -- e sem muído -- de fazer uma resenha.
-Mais esse jeitim pode num tá na frente da sua venta de início, a num ser que você seja das zoropa.
-Pode ser que num teje claro, mai num seje abestado.
-Nes'tante é melhor que de hoje a quinze.
-Mas de hoje a quinze é melhor que *nas carrêra*.
-Se o muído for caixão de contar, é bronca.
-Se der pra contar o muído ligêro, é só o mi.
-Apartar os nomes é uma ideia pai d'égua -- bó matutar mardéssa.
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
 ```
 
 Instalar
 =======
 ```sh
-$ pip install oxente
+$ pip install cosaLinda
 ```
 
 Executar
 =======
 ```py
->>> import oxente
+>>> import cosaLinda
 ```
 Ou no modo hacker:
 ```sh
-$ python -m oxente
+$ python -m cosaLinda
 ```
