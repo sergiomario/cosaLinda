@@ -10,14 +10,14 @@ except IOError:
     long_description = ''
 
 setup(
-    name='oxente',
+    name='cosaLinda',
     version='127.0.0.1',
-    url='https://github.com/luanfonceca/oxente',
+    url='https://github.com/sergiomario/cosaLinda',
     license='MIT',
-    description=u'Tradução do módulo "this" do python para PT-BR-NE (Português brasileiro nordestino)',
+    description=u'Tradução do módulo "this" do python para PT-BR-Manezes (Português brasileiro Florianopolitano)',
     long_description=long_description,
-    author='Luan Fonseca',
-    author_email='luanfonceca@gmail.com',
+    author='Mário Sérgio',
+    author_email='sergio.mario_q@hotmail.com',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Web Environment',
@@ -27,6 +27,6 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
     ],
-    packages=['oxente'],
+    packages=['cosaLinda'],
     install_requires=['setuptools'],
 )
