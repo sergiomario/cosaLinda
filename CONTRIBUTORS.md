@@ -7,4 +7,6 @@ Oxente - Contribuidores (classificados em ordem alfabética)
 
 * **[Fábio Leal](https://github.com/fabiosl)**
 
-**[Informações totais dos contribuidores](https://github.com/luanfonceca/oxente/contributors).**
+* **[Mário Sérgio](https://github.com/sergiomario)**
+
+**[Informações totais dos contribuidores](https://github.com/sergiomario/cosaLinda/contributors).**
